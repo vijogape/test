@@ -8,6 +8,7 @@ int main()
 	float num1, num2;
 	double tot;
 	int opt;
+	a
 	
 	cout<<"Escribe tu nombre aqui"<<endl;
 	cin>>name;
