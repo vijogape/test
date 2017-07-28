@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	string name;
-	float num1, num2;
+	float num1, num2, num3;
 	double tot;
 	int opt;
 	
